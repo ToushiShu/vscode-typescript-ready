@@ -6,11 +6,10 @@
   "repository": "https://github.com/ToushiShu/thingy-api-node-hapy-typescript.git",
   "author": "Tony Tang <204461@supinfo.com>",
   "license": "MIT",
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "devDependencies": {
     "concurrently": "^4.1.0",
+    "cross-env": "^5.2.0",
     "nodemon": "^1.18.10",
     "ts-node": "^8.0.2",
     "tslint": "^5.13.1",
